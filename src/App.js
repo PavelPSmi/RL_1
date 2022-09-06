@@ -7,6 +7,7 @@ function App(props) {
         <h3>Первый урок по React, {props.name}</h3>
       </header>
     </div>
+    
   );
 }
 
